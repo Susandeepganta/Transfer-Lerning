@@ -1,1 +1,2 @@
-# Transfer-Lerning
+# Transfer-Learning
+Food 101 is about classifying 101 food type present throughout the world. A Deep Learning model using transfer learning has been created to improve the prediction score of Food 101 vision paper where Random Forest was used to classify the food type. Using Transfer lerning I could achieve 0.60% as the predicting percentage whereas in the Food 101 paper it is mentioned that the model could produce 50.76%.
